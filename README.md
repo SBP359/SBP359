@@ -9,11 +9,7 @@
 </div>
 
 ## 📊 GitHub Stats
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/../output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="/../output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="/../output/github-contribution-grid-snake.svg"/>
-</picture>
+![Snake animation](https://raw.githubusercontent.com/SBP359/SBP359/output/github-contribution-grid-snake.svg)
 
 
 <div align="center">
