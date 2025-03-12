@@ -5,7 +5,7 @@
 ![Matrix](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
   
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=000000&width=435&lines=System+Boot:+SACHINBP1024;Initializing+Modules;Loading+Dataset...;Network+Connection+Ready!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=000000&width=435&lines=System+Boot:+SBP359;Initializing+Modules;Loading+Dataset...;Network+Connection+Ready!" alt="Typing SVG">
 </div>
 
 ## 📊 GitHub Stats
