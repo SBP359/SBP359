@@ -9,7 +9,7 @@
 </div>
 
 ## 📊 GitHub Stats
-![Snake animation](dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/SBP359/SBP359/output/dist/github-contribution-grid-snake.svg)
 
 
 <div align="center">
