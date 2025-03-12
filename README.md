@@ -8,6 +8,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=000000&width=435&lines=System+Boot:+SACHINBP1024;Initializing+Combat+Protocols;Loading+Python+Arsenal...;Battle+Station+Ready!" alt="Typing SVG">
 </div>
 
+## 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/../output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="/../output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="/../output/github-contribution-grid-snake.svg"/>
+</picture>
 
 
 <div align="center">
