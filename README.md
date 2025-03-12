@@ -22,7 +22,7 @@
     <img src="assets/skills.png" alt="Logo" >
 </div>
 
-![Battle Status](https://img.shields.io/badge/BATTLE%20STATUS-ENGAGED-00FF00?style=for-the-badge)
+![Battle Status](https://img.shields.io/badge/STATUS-ACTIVE-E33D28?style=for-the-badge)
 
 </div>
 
