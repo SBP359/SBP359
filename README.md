@@ -59,8 +59,6 @@
 
 <div align="center">
 
-### ⚔️ COUNT ⚔️
-
 ![Profile Views](https://komarev.com/ghpvc/?username=SACHINBP1024&color=E32D0D&style=flat-square&label=Views)
 
 </div>
