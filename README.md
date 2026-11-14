@@ -33,7 +33,7 @@ I enjoy exploring different areas of computing, building practical projects, exp
 
 <div align="center">
 
-<img src="assets/skills.png" alt="Skills and Interests">
+<img src="assets/skills.png" alt="Skills and Interests" width="75%" heigh="75%">
 
 </div>
 
@@ -51,15 +51,11 @@ I enjoy exploring different areas of computing, building practical projects, exp
 
 - 🏆 **AI VidyaSetu 1.0** – Zonal 2nd Runner-Up
 - 🎯 Qualified for the National Level competition.
-- 🏅 Top 10 in the INCTF Junior leaderboard.
 
 ## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SBP359&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBP359&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="165">
 
 <br>
 
